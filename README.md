@@ -1,30 +1,30 @@
+<h1 align="center">Hi 👋, I'm Rahul Jadhav</h1>
+<h3 align="center">Data Analyst passionate about solving real-world problems through data</h3>
 
-# 💫 About Me:
-# Hi, I'm Rahul 👋<br><br>I'm an aspiring **Data Analyst** with a curiosity for finding patterns in data and turning them into useful insights. I enjoy learning new technologies, solving problems, and building projects that help me improve my analytical skills.<br><br>Right now, I'm focused on learning **Python, SQL, Excel, Power BI, and Statistics**, while creating hands-on projects to strengthen my portfolio.<br><br>### What I'm working on<br><br>* 📊 Data analysis projects<br>* 🐍 Python for data analysis<br>* 🗄️ SQL queries and database management<br>* 📈 Interactive dashboards with Power BI<br>* 💡 Continuously learning and improving every day<br><br>### My goal<br><br>I'm looking to start my career as a **Data Analyst**, contribute to meaningful projects, and keep growing as a data professional.<br><br>Thanks for stopping by! Feel free to explore my repositories and connect with me.<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahultech21&label=Profile%20views&color=0e75b6&style=flat" alt="rahultech21" /> </p>
 
+- 🔭 I’m currently working on **Building real-world data analytics projects that showcase my problem-solving skills and strengthen my portfolio.**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-jadhav29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahuljad921@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RahulTech21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RahulTech21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RahulTech21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 👨‍💻 All of my projects are available at [Explore my GitHub repositories to see the data analytics projects I've built and the skills I've applied.](Explore my GitHub repositories to see the data analytics projects I've built and the skills I've applied.)
 
----
-[![](https://komarev.com/ghpvc/?username=RahulTech21&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Python, SQL, Excel, Power BI, data analysis, data visualization, and dashboard creation.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**RahulTech21/RahulTech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **rahuljad921@gmail.com**
 
-Here are some ideas to get you started:
+- 📄 Know about my experiences [Feel free to connect with me on LinkedIn or check out my resume to learn more about my background and projects](Feel free to connect with me on LinkedIn or check out my resume to learn more about my background and projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I enjoy uncovering stories hidden in data and turning them into insights that support better decisions**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-jadhav29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-jadhav29" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahultech21&show_icons=true&locale=en&layout=compact" alt="rahultech21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahultech21&show_icons=true&locale=en" alt="rahultech21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahultech21&" alt="rahultech21" /></p>
