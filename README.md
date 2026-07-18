@@ -13,7 +13,7 @@
 - 🎓 Currently sharpening my skills in **Data Analysis, SQL, and Visualization**
 - 💼 Actively looking for **Data Analyst / Junior Analyst** roles
 - 🌱 Learning: Advanced SQL, Power BI/Tableau, and A/B testing fundamentals
-- 📫 Reach me: **your-email@example.com** &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/rahuljadhav29)
+- 📫 Reach me: rahuljad921@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/rahul-jadhav29)
 - ⚡ Fun fact: I speak fluent Excel formulas 😄
 
 ---
@@ -61,7 +61,7 @@
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-jadhav29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
