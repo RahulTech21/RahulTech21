@@ -49,16 +49,9 @@
 - Used Excel Pivot Tables, Pivot Charts, Slicers, and data visualization techniques
 
 
-### 🐍 Python Data Analysis Projects
-
-- Data cleaning and exploratory analysis using Python, Pandas, NumPy, and visualization libraries
 
 
-### 📊 Business Intelligence Dashboards
 
-- Creating interactive dashboards focused on extracting actionable business insights
-
----
 
 ## 📈 GitHub Stats
 
